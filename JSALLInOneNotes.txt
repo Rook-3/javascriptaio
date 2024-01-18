@@ -1,0 +1,57 @@
+Javascript developer should have:
+a code editor
+nodejs for running tools
+a package manager for installing,upgrading,tracking, and remove node js software packages
+a build tool for bundling javascript files, compiling template code, and automating build process
+code beautifuer to make it formatted
+a static doe analyzer for checking the code syntax and style
+a debugger for tracking down and eliminating errors
+testing framework for automating the texting of programs
+Version control for keeping up with changes
+
+
+VsCode extensions
+Prettier
+Live server
+JsavScript code snippets
+HTML BOilerplate
+EJS language support
+Material Icon Theme
+vscode-icons
+
+document your code with comments to help yourself and others know what a particular line does
+
+README FIle
+instructions may apply to your js program rather than a particular file or function. Written in a txt or .md(markdown)
+
+In a mark down you give a header like this:
+# Gamelet  (LV1 heading)
+
+## Usage (LV2 heading)
+
+1. Include gamelet.js in an html document containg an element with an id of 'ball'
+
+``` 
+<div id="ball">@</div>
+<script src="gamelet.js">  The 6 batticks is how you display code
+```
+
+Version Control
+To code responsibly, what if you collab with a person or team and find out you are working on the samething, or to keep
+track of certain points etc. Use GIT
+
+Git creates Snapshots of a project containing only the files that have changed in each version (Install Git)
+inside vs code terminal type git --version
+
+inside the terminal
+
+git config --global user.email "your@email.com"
+git config --global user.name "yourname"
+
+Source Control on Vs code
+
+Git has 3 states: modified (changes but havent committed to database) Stage (means you've marked a modified file to be a part your next commit), and Committed (file is stored in your local Git database)
+
+hit the "+" to stage
+enter a commit message then execute
+

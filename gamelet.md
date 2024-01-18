@@ -12,4 +12,4 @@ A starter program for writing JavaScript games.
     <script src="gamelet.js">
     ```
 
-    2.  The script will detect when the left or right arrow keys ar3 pressed and will move the ball element accordingly
+    2.  The script will detect when the left or right arrow keys ar3 pressed and will move the ball element accordingly.

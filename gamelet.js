@@ -1,8 +1,8 @@
 const ball = document.getElementById("ball");
-document.addEventListener("keydown",handleKeyPress);
+document.addEventListener("keydown",HandleKeyPress);
 let position = 0;
 
-function handleKeyPress(e){
+function HandleKeyPress(e){
   if(e.code === "ArrowLeft"){
     position = position - 10;
   }
